@@ -2,9 +2,9 @@
 Random Quote delivers a daily dose of inspiration by providing users with thought-provoking quotes from various authors, thinkers, and leaders. Powered by the [QUOTABLE API](https://api.quotable.io/random), this generator offers an endless stream of insightful content to brighten your day.
 
 # Features
-Random Quote Generation: Click the "Generate Quote" button to receive a new quote from the [QUOTABLE API](https://api.quotable.io/random).
-Twitter Integration: Share your favorite quotes directly to Twitter with the click of a button.
-Responsive Design: Enjoy a seamless user experience across devices, whether on desktop, tablet, or mobile.
+- Random Quote Generation: Click the "Generate Quote" button to receive a new quote from the [QUOTABLE API](https://api.quotable.io/random).
+- Twitter Integration: Share your favorite quotes directly to Twitter with the click of a button.
+- Responsive Design: Enjoy a seamless user experience across devices, whether on desktop, tablet, or mobile.
 
 # Credits
 This project is part of the Front End Development Libraries course on freeCodeCamp.
