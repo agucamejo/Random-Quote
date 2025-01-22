@@ -1,14 +1,14 @@
 # Overview
-Random Quote delivers a daily dose of inspiration by providing users with thought-provoking quotes from various authors, thinkers, and leaders. Powered by the <a href="https://github.com/lukePeavey/quotable" target="_blank">QUOTABLE API</a>, this generator offers an endless stream of insightful content to brighten your day.
+Randy Quote/Advice delivers a daily dose of inspiration by providing users with thought-provoking Quote/Advices from various authors, thinkers, and leaders. Powered by the <a href="https://api.adviceslip.com/" target="_blank">Advice Slip API</a>, this generator offers an endless stream of insightful content to brighten your day.
 
 # Features
-- Random Quote Generation: Click the "Generate Quote" button to receive a new quote from the <a href="https://github.com/lukePeavey/quotable" target="_blank">QUOTABLE API</a>.
-- Twitter Integration: Share your favorite quotes directly to Twitter with the click of a button.
+- Randy Quote/Advice Generation: Click the "Change Quote" button to receive a new Quote/Advice from the <a href="https://api.adviceslip.com/" target="_blank">Advice Slip API</a>.
+- Twitter Integration: Share your favorite Quote/Advices directly to Twitter with the click of a button.
 - Responsive Design: Enjoy a seamless user experience across devices, whether on desktop, tablet, or mobile.
 
 # Credits
 This project is part of the Front End Development Libraries course on freeCodeCamp.
-Special thanks to the developers behind QUOTABLE API for providing access to a vast database of quotes.
+Special thanks to the developers behind Advice Slip API for providing access to a vast database of Quote/Advices.
 
 # React + TypeScript + Vite
 
