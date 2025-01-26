@@ -66,7 +66,7 @@ const App: React.FC = () => {
 
   return (
     <div className='background' style={{ backgroundColor: bgColor }}>
-      {loading ? ( // Mostrar el loader si loading es true
+      {loading ? (
         <Loader />
       ) : (
         <div id="quote-box">
@@ -74,7 +74,9 @@ const App: React.FC = () => {
             <h2 id="text">
               <FaQuoteLeft size="30" style={{ marginRight: "10px", color: bgColor }}/>
                 {quote.slip.advice}
-              <FaQuoteRight size="30" style={{ marginLeft: "10px", color: bgColor }}/></h2>
+              <FaQuoteRight size="30" style={{ marginLeft: "10px", color: bgColor }}/>
+            </h2>
+            <h4 id="author">Anonymous author</h4>
             <div id="button-container">
               <button id="new-quote" style={{ backgroundColor: bgColor, color: 'rgba(1, 1, 1, 0.87)' }} onClick={() => updateQuote(setQuote, setBgColor, setLoading)}>Change Quote</button>
               <a id="tweet-quote" style={{ backgroundColor: bgColor, color: 'rgba(1, 1, 1, 0.87)'}} href={tweetUrl} target="_blank" rel="noopener noreferrer" title='Tweet quote'><FaTwitter/></a>
